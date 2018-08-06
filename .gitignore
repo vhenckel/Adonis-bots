@@ -1,0 +1,14 @@
+# Node modules
+bots/node_modules
+
+# Adonis directory for storing tmp files
+bots/tmp
+
+# Environment variables, never commit this file
+bots/.env
+
+# The development sqlite file
+bots/database/development.sqlite
+
+*sublime*
+*DS_*
